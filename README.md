@@ -1,3 +1,6 @@
+(graciously forked from Francesco Corvi ([nesso.xyz](https://www.nesso.xyz/)).
+
+Original repo: https://github.com/fracnesco/HackYourDaw
 # TidalCycles-Max4Live
 
                      Francesco Corvi                                 Music Informatics
